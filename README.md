@@ -1,7 +1,9 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/LjX3gN0.png" alt="Data Science Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sankalpG007/sankalpG007/main/banner.png" alt="Data Science Banner" width="100%" />
 </p>
 
+<!-- Intro -->
 <h1 align="center">Hey there 👋, I'm Sankalp Singh</h1>
 <h3 align="center">🚀 AI/ML Student | 📊 Aspiring Data Scientist | 💻 Developer</h3>
 
@@ -22,11 +24,11 @@
 
 ### 📫 Connect with me  
 <p align="left">
-  <a href="http://linkedin.com/in/sankalp-singh-48670b21a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="https://www.hackerrank.com/singhsankalp880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40" /></a>
-  <a href="https://twitter.com/Sankalpsingh880" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>
-  <a href="https://codolio.com/profile/SankalpSingh" target="blank"><img align="center" src="https://img.icons8.com/color/48/code.png" alt="Codolio" height="40" /></a>
-  <a href="https://leetcode.com/u/sankalp_singh880/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" /></a>
+  <a href="http://linkedin.com/in/sankalp-singh-48670b21a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.hackerrank.com/singhsankalp880" target="_blank"><img src="https://upload.wikimedia.org/portal/hackerrank.svg" alt="HackerRank" height="40"/></a>
+  <a href="https://twitter.com/Sankalpsingh880" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+  <a href="https://codolio.com/profile/SankalpSingh" target="_blank"><img src="https://img.icons8.com/color/48/code.png" alt="Codolio" height="40"/></a>
+  <a href="https://leetcode.com/u/sankalp_singh880/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/></a>
 </p>
 
 ---
@@ -40,13 +42,12 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp880&theme=tokyonight
-" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp880&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpG007&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpG007&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp880&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpG007&theme=tokyonight" height="160" />
 </p>
 
 ---
